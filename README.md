@@ -1,1 +1,1 @@
-# MySample
+# Android Application- Sample
